@@ -197,7 +197,8 @@ The backend follows a **3-layer architecture** for clean separation of concerns:
 #### 1. Clone / Navigate to the project
 
 ```bash
-cd C:\Users\LOQ\Desktop\Study\Simple_Grid_Task1
+git clone https://github.com/SauvirWodehra/Product_Inventory_Management_System.git
+cd Product_Inventory_Management_System
 ```
 
 #### 2. Start the Backend (Terminal 1)
